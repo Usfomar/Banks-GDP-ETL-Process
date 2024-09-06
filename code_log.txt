@@ -1,0 +1,9 @@
+2024-07-20 03:55:41  ETL Process is started
+2024-07-20 03:55:41  Extracting process is started
+2024-07-20 03:55:43  Extracting process is ended
+2024-07-20 03:55:43  Transformation process is started
+2024-07-20 03:55:43  Transformation process is ended
+2024-07-20 03:55:43  Loading to csv process is started
+2024-07-20 03:55:43  Loading to csv process is ended
+2024-07-20 03:55:43  Loading to database process is started
+2024-07-20 03:55:43  Loading to database process is ended
